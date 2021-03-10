@@ -1,0 +1,86 @@
+.shippori, #startTwo {
+  font-family: 'Shippori Mincho B1', serif;
+  color: #dad7cd;
+}
+body {
+  background-color: #3a5a40;
+}
+
+.header {
+  width: auto;
+  height: 3em;
+  background-color: #344e41;
+  margin: auto;
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.3rem;
+}
+.information {
+  width: 100%;
+  height: 2em;
+  display: block;
+  background-color: #dad7cd;
+  font-family: 'Open Sans', sans-serif;
+font-size: 3rem;
+text-align: left;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+}
+ 
+#header {
+  z-index: -1;
+  text-shadow: -0.001em -0.001em 1px rgba(255,255,255,.15)}
+  
+#header {
+z-index: -2;
+text-shadow: 10px 10px 10px rgba(0,0,0,.5), 20px 20px 20px rgba(0,0,0,.4), 30px 30px 30px rgba(0,0,0,.1);
+mix-blend-mode: multiply; }
+span {
+  color: #344e41;
+	transition: 0.5s;
+  visibility: visible;
+}
+.invis {
+  color:#dad7cd;
+}
+.selected {
+  background-color: #344e41;
+}
+.nav-link {
+  color:#dad7cd;
+}
+.nav-link:hover {
+  color:#a3b18a;
+}
+#startTwo {
+  color: #dad7cd;
+  text-align: left;
+}
+p, ul, li {
+  font-size: 20px;
+  color: #dad7cd;
+}
+.medium {
+  font-size: 30px;
+}
+hr {
+  color: #dad7cd;
+}
+a {
+  color: #95d5b2;
+}
+a:hover {
+  color: #40916c;
+}
+#secondCategory {
+  background-color: #344e41;
+}
+#emmengard {
+  width: 1000px;
+  height: 1000px;
+  margin-left: 25%;
+}
